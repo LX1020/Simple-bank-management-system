@@ -1,0 +1,12 @@
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\bin\x64\Debug\ZJM.exe
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form1.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form2.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form3.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form4.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form5.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form6.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Form7.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.Properties.Resources.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.csproj.GenerateResource.Cache
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.exe
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Debug\ZJM.pdb

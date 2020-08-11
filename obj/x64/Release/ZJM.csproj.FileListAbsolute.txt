@@ -1,0 +1,14 @@
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\bin\x64\Release\ZJM.exe
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\bin\x64\Release\ZJM.pdb
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form1.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form2.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form3.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form4.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form5.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form6.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Form7.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.Properties.Resources.resources
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.csproj.GenerateResource.Cache
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.exe
+C:\Users\陆鑫\documents\visual studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.pdb
+C:\Users\陆鑫\Documents\Visual Studio 2010\Projects\ZJM\ZJM\obj\x64\Release\ZJM.csprojResolveAssemblyReference.cache
